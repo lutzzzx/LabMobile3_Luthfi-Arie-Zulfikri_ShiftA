@@ -61,13 +61,14 @@
 # Screenshot
 
 <p align="center">
-  <img src="login_page.png" alt="Halaman Login" width="45%" style="margin-right: 10px;" />
-  <img src="contact_page.png" alt="Halaman Daftar Kontak" width="45%" />
+  <img src="login_page.png" alt="Halaman Login" width="45%" style="margin-right: 10px; border: 2px solid black;" />
+  <img src="contact_page.png" alt="Halaman Daftar Kontak" width="45%" style="border: 2px solid black;" />
 </p>
 <p align="center">
-  <img src="add_contact_page.png" alt="Halaman Tambah Kontak" width="45%" style="margin-right: 10px;" />
-  <img src="about_page.png" alt="Halaman Tentang Aplikasi" width="45%" />
+  <img src="add_contact_page.png" alt="Halaman Tambah Kontak" width="45%" style="margin-right: 10px; border: 2px solid black;" />
+  <img src="about_page.png" alt="Halaman Tentang Aplikasi" width="45%" style="border: 2px solid black;" />
 </p>
 <p align="center">
-  <img src="sidemenu.png" alt="Sidemenu" width="45%" />
+  <img src="sidemenu.png" alt="Sidemenu" width="45%" style="border: 2px solid black;" />
 </p>
+
